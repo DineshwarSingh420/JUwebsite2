@@ -703,11 +703,19 @@ max-height: 90vh;
 .footer1 a{
   color: #a1a1a1;
 }
-.footer1 h3{
+.footer1 h4{
+  color: white;
+  /* border-bottom: 1px solid white; */
+  display: inline-block;
+  cursor: pointer;
+  
+}
+.footer1 h2{
   color: white;
   border-bottom: 1px solid white;
   display: inline-block;
   cursor: pointer;
+  
 }
 
 .info4 a:hover{
